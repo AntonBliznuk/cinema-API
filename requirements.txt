@@ -4,4 +4,4 @@ sqlalchemy
 alembic
 pydantic
 pydantic-settings
-pytest
+httpx
